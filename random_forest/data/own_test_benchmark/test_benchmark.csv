@@ -1,0 +1,15 @@
+Tempo;Temperatura;Umidade;Ventoso;Probabilidade;target
+Ensolarado;Quente;Alta;Falso;10;Nao
+Ensolarado;Quente;Alta;Verdadeiro;14;Nao
+Nublado;Quente;Alta;Falso;14;Sim
+Chuvoso;Amena;Alta;Falso;16;Sim
+Chuvoso;Fria;Normal;Falso;17;Sim
+Chuvoso;Fria;Normal;Verdadeiro;22;Nao
+Nublado;Fria;Normal;Verdadeiro;28;Sim
+Ensolarado;Amena;Alta;Falso;34;Nao
+Ensolarado;Fria;Normal;Falso;50;Sim
+Chuvoso;Amena;Normal;Falso;50;Sim
+Ensolarado;Amena;Normal;Verdadeiro;70;Sim
+Nublado;Amena;Alta;Verdadeiro;76;Sim
+Nublado;Quente;Normal;Falso;87;Sim
+Chuvoso;Amena;Alta;Verdadeiro;90;Nao
